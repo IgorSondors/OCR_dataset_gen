@@ -1,0 +1,3 @@
+C:\Users\sondors\AppData\Local\pip\Cache\wheels\4a\bc\bf\57ced20a72517a75c750f51f92b6041c5bb88b0985d2c7a854
+
+C:\Users\sondors\.conda\envs\synth\Lib\site-packages\trdg
